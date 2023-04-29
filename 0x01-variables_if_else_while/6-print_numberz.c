@@ -15,6 +15,6 @@ putchar(ch + 48);
 ch++;
 }
 
-printf("\n");
+putchar('\n');
 return (0);
 }
