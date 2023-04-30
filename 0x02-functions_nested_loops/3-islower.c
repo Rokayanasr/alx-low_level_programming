@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* _isalpha - shows 1 if the input is a character. Another case shows 0.
+* _islower - shows 1 if the input is a lowercase character. Another case shows 0.
 * @c: a character in ascii code table
-* Return: 1 for letters. 0 for the rest
+* Return: 1 for lowercase. 0 for the rest
 */
 
 int _islower(int c)
