@@ -2,7 +2,8 @@
 
 /**
 *main - Entry point
-*Description: 'print_alphabet, in lowercase using _putchar function'
+*Description: 'print lower case, in lowercase using _putchar function'
+*print_alphabet: is a function to print alphabet
 *Return: always 0
 */
 
