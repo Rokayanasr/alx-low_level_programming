@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
-* _isalpha - checks c is an alphabet.
-* Return: always 0
+* _isalpha - checks if c is an alphabet.
+* Return: 1 for letters. 0 for the else
+* @c: is a letter in ascii code table
 */
 
 int _isalpha(int c)
