@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
 *_strlen - compute the length of a string.
 *@s: string
@@ -18,11 +18,4 @@ len++;
 s++;
 }
 return (len);
-}
-int main(void)
-{
-char str[] = "hello, world!";
-int len = _strlen(str);
-printf("the length of a string is : %d\n", len);
-return (0);
 }
